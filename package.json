@@ -10,11 +10,7 @@
     "authentication",
     "token"
   ],
-  "author": {
-    "name": "Paolo Ferretti",
-    "email": "paolo.ferretti@gmail.com",
-    "url": "http://www.paoloferretti.net/"
-  },
+  "author": "Paolo Ferretti <paolo.ferretti@gmail.com> (http://www.paoloferretti.net/)",
   "repository": {
     "type": "git",
     "url": "git://github.com/pferretti/passport-local-token.git"
@@ -41,6 +37,12 @@
     "node": ">= 0.4.0"
   },
   "scripts": {
-    "test": "node_modules/.bin/mocha --reporter spec --require test/bootstrap/node test/*.test.js"
-  }
+    "test": "mocha --reporter spec --require test/bootstrap/node test/*.test.js"
+  },
+  "homepage": "https://github.com/pferretti/passport-local-token",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "license": "MIT"
 }
