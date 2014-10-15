@@ -1,9 +1,9 @@
-# passport-token
+# passport-local-token
 
-[![Build](https://travis-ci.org/pferretti/passport-local.png)](https://travis-ci.org/pferretti/passport-token)
-[![Coverage Status](https://coveralls.io/repos/pferretti/passport-token/badge.png)](https://coveralls.io/r/pferretti/passport-token)
-[![Quality](https://codeclimate.com/github/pferretti/passport-token.png)](https://codeclimate.com/github/pferretti/passport-token)
-[![Dependencies](https://david-dm.org/pferretti/passport-token.png)](https://david-dm.org/pferretti/passport-token)
+[![Build](https://travis-ci.org/pferretti/passport-local-token.png)](https://travis-ci.org/pferretti/passport-local-token)
+[![Coverage Status](https://coveralls.io/repos/pferretti/passport-local-token/badge.png)](https://coveralls.io/r/pferretti/passport-local-token)
+[![Quality](https://codeclimate.com/github/pferretti/passport-local-token.png)](https://codeclimate.com/github/pferretti/passport-local-token)
+[![Dependencies](https://david-dm.org/pferretti/passport-local-token.png)](https://david-dm.org/pferretti/passport-local-token)
 [![Tips](http://img.shields.io/gittip/pferretti.png)](https://www.gittip.com/pferretti/)
 
 
@@ -18,7 +18,7 @@ unobtrusively integrated into any application or framework that supports
 
 ## Install
 
-    $ npm install passport-token
+    $ npm install passport-local-token
 
 ## Usage
 

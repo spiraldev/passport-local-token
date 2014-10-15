@@ -1,5 +1,5 @@
 {
-  "name": "passport-token",
+  "name": "passport-local-token",
   "version": "1.0.0",
   "description": "Local token authentication strategy for Passport.",
   "keywords": [
@@ -17,10 +17,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/pferretti/passport-token.git"
+    "url": "git://github.com/pferretti/passport-local-token.git"
   },
   "bugs": {
-    "url": "http://github.com/pferretti/passport-token/issues"
+    "url": "http://github.com/pferretti/passport-local-token/issues"
   },
   "licenses": [
     {

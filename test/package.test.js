@@ -2,7 +2,7 @@
 
 var strategy = require('..');
 
-describe('passport-token', function() {
+describe('passport-local-token', function() {
 
   it('should export Strategy constructor directly from package', function() {
     expect(strategy).to.be.a('function');
