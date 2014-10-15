@@ -1,4 +1,4 @@
-# passport-local
+# passport-token
 
 [![Build](https://travis-ci.org/pferretti/passport-local.png)](https://travis-ci.org/pferretti/passport-token)
 [![Coverage](https://coveralls.io/repos/pferretti/passport-token/badge.png)](https://coveralls.io/r/pferretti/passport-token)
